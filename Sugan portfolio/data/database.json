@@ -1,0 +1,240 @@
+{
+  "profile": {
+    "name": "SUGANTHAN M",
+    "title": "Full-Stack Software Engineer & React Specialist",
+    "tagline": "Specialized in Full-Stack Web Development, React.js, Node.js & Scalable Cloud Solutions.",
+    "bio": "I am SUGANTHAN M, a Full-Stack Software Engineer based in Chennai, Tamil Nadu with 2 years of practical experience engineering scalable web applications and responsive user interfaces. With strong foundations in modern JavaScript (ES6+), React.js, Node.js, Express, and REST architectures, I specialize in translating complex architectural requirements into elegant, high-performance web systems with fluid interactivity.",
+    "location": "Chennai, Tamil Nadu",
+    "email": "suganthansugan47@gmail.com",
+    "github": "https://github.com/suganthan-dev",
+    "linkedin": "https://linkedin.com/in/suganthan-m",
+    "photo": "/images/profile.jpg",
+    "status": "Available for Full-Stack & Frontend Roles",
+    "stats": [
+      {
+        "label": "Years Experience",
+        "value": "2 Years"
+      },
+      {
+        "label": "Projects Completed",
+        "value": "5+"
+      },
+      {
+        "label": "Tech Stacks",
+        "value": "8+"
+      },
+      {
+        "label": "Code Commits",
+        "value": "750+"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "JavaScript (ES6+)",
+      "category": "Languages",
+      "proficiency": 92,
+      "icon": "zap"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "proficiency": 84,
+      "icon": "code-2"
+    },
+    {
+      "name": "HTML5 & CSS3",
+      "category": "Languages",
+      "proficiency": 95,
+      "icon": "file-code"
+    },
+    {
+      "name": "Python Basics",
+      "category": "Languages",
+      "proficiency": 72,
+      "icon": "terminal"
+    },
+    {
+      "name": "React.js",
+      "category": "Frontend",
+      "proficiency": 90,
+      "icon": "atom"
+    },
+    {
+      "name": "Responsive Design & Flexbox/Grid",
+      "category": "Frontend",
+      "proficiency": 94,
+      "icon": "smartphone"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "proficiency": 88,
+      "icon": "palette"
+    },
+    {
+      "name": "Modern CSS & Glassmorphism",
+      "category": "Frontend",
+      "proficiency": 90,
+      "icon": "layers"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "proficiency": 86,
+      "icon": "server"
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "proficiency": 88,
+      "icon": "cpu"
+    },
+    {
+      "name": "RESTful API Architecture",
+      "category": "Backend",
+      "proficiency": 90,
+      "icon": "network"
+    },
+    {
+      "name": "Authentication & JWT",
+      "category": "Backend",
+      "proficiency": 82,
+      "icon": "shield-check"
+    },
+    {
+      "name": "MongoDB & Mongoose",
+      "category": "Databases",
+      "proficiency": 85,
+      "icon": "database"
+    },
+    {
+      "name": "SQLite / Local JSON Store",
+      "category": "Databases",
+      "proficiency": 88,
+      "icon": "hard-drive"
+    },
+    {
+      "name": "PostgreSQL Basics",
+      "category": "Databases",
+      "proficiency": 74,
+      "icon": "table"
+    },
+    {
+      "name": "Vercel / Cloud Deployment",
+      "category": "DevOps / Cloud",
+      "proficiency": 85,
+      "icon": "cloud"
+    },
+    {
+      "name": "Docker Basics",
+      "category": "DevOps / Cloud",
+      "proficiency": 70,
+      "icon": "box"
+    },
+    {
+      "name": "CI/CD & GitHub Actions",
+      "category": "DevOps / Cloud",
+      "proficiency": 76,
+      "icon": "refresh-cw"
+    },
+    {
+      "name": "Git & GitHub",
+      "category": "Tools",
+      "proficiency": 90,
+      "icon": "git-branch"
+    },
+    {
+      "name": "VS Code & Debuggers",
+      "category": "Tools",
+      "proficiency": 92,
+      "icon": "terminal"
+    },
+    {
+      "name": "Postman / API Testing",
+      "category": "Tools",
+      "proficiency": 86,
+      "icon": "send"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Interactive Full-Stack Web Application",
+      "description": "Full-featured web platform featuring real-time UI interactivity, dynamic API feeds, and responsive dark aesthetics.",
+      "longDescription": "Engineered a production-ready application using modular Express REST APIs on the backend and modern vanilla JavaScript with reactive component patterns on the frontend. Features asynchronous CRUD operations, instant search and categorization, and persistent storage.",
+      "category": "Full-Stack",
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "CSS3"
+      ],
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "github": "https://github.com/suganthan-dev/fullstack-app",
+      "liveDemo": "https://suganthan-app.vercel.app",
+      "featured": true,
+      "year": 2026,
+      "metrics": "700+ git commits, <100ms API response time"
+    },
+    {
+      "id": "proj-2",
+      "title": "AI Cloud Analytics Dashboard",
+      "description": "Real-time interactive data visualization platform with AI metrics tracking, user filtering, and responsive metrics.",
+      "longDescription": "Architected an analytics dashboard delivering aggregated statistics, visual progress indicators, and fast querying across complex dataset categorizations.",
+      "category": "Frontend",
+      "technologies": [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Chart.js"
+      ],
+      "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80",
+      "github": "https://github.com/suganthan-dev/ai-analytics-dashboard",
+      "liveDemo": "https://sugan-analytics.vercel.app",
+      "featured": true,
+      "year": 2026,
+      "metrics": "60fps animation render, 100% lighthouse accessibility"
+    },
+    {
+      "id": "proj-3",
+      "title": "High-Throughput Microservice API",
+      "description": "Scalable RESTful microservice with dual-mode storage, JSON/MongoDB adapters, and strict input validation.",
+      "longDescription": "Built robust backend endpoints supporting pagination, regex search, schema validation, and health checks with zero-downtime database fallback.",
+      "category": "Backend",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "CORS"
+      ],
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "github": "https://github.com/suganthan-dev/microservice-api",
+      "liveDemo": "https://sugan-api.vercel.app/api/health",
+      "featured": false,
+      "year": 2025,
+      "metrics": "99.9% uptime, dual storage synchronization"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "msg-1789576532527",
+      "name": "vinoth raajan",
+      "email": "vinothraajan.k@gmail.com",
+      "subject": "Frontend Opportunity for Suganthan M",
+      "message": "hi bro",
+      "createdAt": "2026-09-16T16:35:32.527Z"
+    },
+    {
+      "id": "msg-1789575808631",
+      "name": "Sarah Connor",
+      "email": "sarah@cyberdyne.com",
+      "subject": "Senior Full-Stack Engineer Role",
+      "message": "Hi Sugan, we love your portfolio and would like to invite you for an interview!",
+      "createdAt": "2026-09-16T16:23:28.631Z"
+    }
+  ]
+}
